@@ -1,0 +1,15 @@
+{
+    "users": [
+      {
+        "username": "sarvani",
+        "password": "password123",
+        "name": "Naga Venkata Sai Sarvani "
+      },
+      {
+        "username": "raMeSh",
+        "password": "password456",
+        "name": "Birudukota Ramesh"
+      }
+    ]
+  }
+  

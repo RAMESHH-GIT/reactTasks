@@ -1,0 +1,5 @@
+# Ignore the node_modules directory
+/node_modules
+
+# Ignore the .git directory inside node_modules
+/node_modules/.git
